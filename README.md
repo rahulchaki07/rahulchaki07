@@ -1,49 +1,84 @@
-# Hi, I'm Rahul Chaki 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1c1c2e&height=140&section=header&text=Rahul%20Chaki&fontSize=46&fontColor=ffffff&fontAlignY=50&desc=Senior%20PM%20%E2%80%94%20AI%20%C2%B7%20Platform%20%C2%B7%20Enterprise%20SaaS&descAlignY=72&descSize=15&descColor=9090b0" width="100%"/>
+</div>
 
-**Senior Product Manager** — Enterprise SaaS · API Platforms · AI-enabled Systems
+<br/>
 
-I build products at the intersection of **complex enterprise workflows** and **intelligent automation**. My background spans hands-on API integration engineering (MuleSoft, Apigee, IBM API Connect) and platform product leadership — which means I think in systems, not features.
+<div align="center">
 
-Currently focused on AI-native enterprise product experiences and prototyping at the edge of what LLMs can do for procurement, commerce, contract intelligence, and workflow automation.
+[![Portfolio](https://img.shields.io/badge/rahulchaki.in-1c1c2e?style=for-the-badge)](https://www.rahulchaki.in/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-chaki/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.chaki.07@gmail.com)&nbsp;
+[![Open to roles](https://img.shields.io/badge/Open%20to-Senior%20%7C%20Staff%20PM-16a34a?style=for-the-badge)](https://www.linkedin.com/in/rahul-chaki/)
 
----
+</div>
 
-### What you'll find here
+<br/>
 
-| Repo | What it is | Why it matters |
-|------|-----------|----------------|
-| 🔗 [`Meeting-Cost-Clock`](https://github.com/rahulchaki07/Meeting-Cost-Clock) | Turn every meeting into a number. Make every minute count. | Real-time meeting cost tracking for teams |
-| 🔗 [`ai-decision-maker`](https://github.com/rahulchaki07/ai-decision-maker) | AI-powered decision coaching | Help users you understand the "WHY" behind every choice. |
-| 🔗 [`enterprise-api-design-patterns`](https://github.com/rahulchaki07/enterprise-api-design-patterns) | API design specs, integration patterns, OAuth flows | How I think about platform architecture as a PM |
-| 🔗 [`pm-tools-ai-workflows`](https://github.com/rahulchaki07/pm-tools-ai-workflows) | AI tools for PM workflow automation | PRD generation, competitive analysis, user story structuring |
+I'm a PM who came up through API integration engineering — MuleSoft, Apigee, building the plumbing before I learned to own the product. That path shapes everything: I think in systems, I prototype before I spec, and I'm drawn to problems that don't have clean solutions yet.
 
----
+*Right now I'm most interested in what happens when AI meets the messy, high-stakes workflows of enterprise.*
 
-### Background
-
-```
-8+ years   →   Enterprise SaaS | API Integrations | Platform Product
-4 years    →   0→1 product development, $10M+ ARR
-2016–2020  →   IT Analyst, TCS — MuleSoft, Apigee, API governance at scale
-2022–now   →   Senior PM, Avasant — S2P + CLM platform, AI workflows, AI Agents & Orchestration
-```
-
-**Domain depth:** Source-to-Pay (S2P), Contract Lifecycle Management (CLM), CPQ/Q2C, API governance, multi-tenant SaaS, AI workflow automation
-
-**Currently building experience in:** LLM application architecture, multi-agent orchestration, AI product instrumentation
+<br/>
 
 ---
 
-### How I use GitHub
+## What I'm building
 
-I prototype to **validate product decisions before writing specs**, not to ship production code. Each repo here represents a real product problem I've worked on — rebuilt as an open demonstration of how I think through solutions.
+| Project | The user problem | What it does |
+|---|---|---|
+| [**Meeting-Cost-Clock**](https://github.com/rahulchaki07/Meeting-Cost-Clock) | Nobody thinks about what a meeting actually costs | Real-time cost counter — makes invisible waste visible |
+| [**ai-decision-maker**](https://github.com/rahulchaki07/ai-decision-maker) | We overthink or underthink, rarely think right | AI decision coaching — makes tradeoffs legible, not just answerable |
+| [**pm-tools-ai-workflows**](https://github.com/rahulchaki07/pm-tools-ai-workflows) | PM craft is hard to systematise without losing judgment | AI inside the PM workflow — PRD drafting, story scoring, interview synthesis |
+| [**enterprise-api-design-patterns**](https://github.com/rahulchaki07/enterprise-api-design-patterns) | API decisions get treated as engineering-only | How a PM thinks about platform architecture — specs, OAuth flows, integration tradeoffs |
 
-The quality bar I hold myself to: *would a technical engineering partner look at this and trust my product judgment?*
+<br/>
 
 ---
 
-### Let's connect
+## How I think about building
 
-🌐 Portfolio: [rahulchaki.in](https://www.rahulchaki.in/)  
-💼 LinkedIn: [linkedin.com/in/rahul-chaki](https://www.linkedin.com/in/rahul-chaki/)
-📍 Bangalore, India · Open to remote
+> *"I prototype to validate product decisions before writing specs — not to ship production code."*
+
+Every repo here starts with a user problem I've actually felt. The code is a vehicle for the thinking. If a technical engineering partner reads it and trusts my product judgment, it's done its job.
+
+GitHub for me is less about commits and more about making my reasoning visible.
+
+<br/>
+
+---
+
+## Background
+
+**Senior PM — Avasant** `2022 → now`
+Built a S2P + CLM platform from zero — contracts, pricing, SLA governance, AI extraction, enterprise integrations. $10M+ ARR. Avasant MVP Award 2024.
+
+**IT Analyst — TCS** `2016 → 2020`
+MuleSoft, Apigee, IBM API Connect. Built the API plumbing for large-scale commerce platforms before I ever wrote a PRD. This is where I learned to read systems.
+
+**MBA — NMIMS Mumbai** `2020 → 2022`
+Dean's List. Figured out product was the right home for someone who likes both the system and the story.
+
+<br/>
+
+---
+
+## Where I go deep
+
+`AI / LLM Products` `Multi-agent Orchestration` `API Governance` `Contract Lifecycle Management` `Source-to-Pay` `Enterprise SaaS` `OAuth 2.0 / SSO` `MuleSoft · Apigee` `CPQ / Q2C` `Multi-tenant Architecture` `Developer Experience`
+
+<br/>
+
+---
+
+<div align="center">
+
+**Open to Senior → Staff PM roles · Platform · AI · Enterprise SaaS · Bangalore · Remote-friendly**
+
+[![Portfolio](https://img.shields.io/badge/See%20my%20work-rahulchaki.in-1c1c2e?style=for-the-badge)](https://www.rahulchaki.in/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1c1c2e&height=80&section=footer" width="100%"/>
+
+</div>
