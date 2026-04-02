@@ -15,7 +15,6 @@ Currently focused on AI-native enterprise product experiences and prototyping at
 | 🔗 [`ai-decision-maker`](https://github.com/rahulchaki07/ai-decision-maker) | AI-powered decision coaching | Help users you understand the "WHY" behind every choice. |
 | 🔗 [`enterprise-api-design-patterns`](https://github.com/rahulchaki07/enterprise-api-design-patterns) | API design specs, integration patterns, OAuth flows | How I think about platform architecture as a PM |
 | 🔗 [`pm-tools-ai-workflows`](https://github.com/rahulchaki07/pm-tools-ai-workflows) | AI tools for PM workflow automation | PRD generation, competitive analysis, user story structuring |
-| 🔗 [`product-case-studies`](https://github.com/rahulchaki07/product-case-studies) | Written product teardowns — S2P, CLM, API platforms | How I approach product strategy and decision-making |
 
 ---
 
