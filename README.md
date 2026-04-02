@@ -12,6 +12,7 @@ Currently focused on AI-native enterprise product experiences and prototyping at
 
 | Repo | What it is | Why it matters |
 |------|-----------|----------------|
+| 🔗 [`Meeting-Cost-Clock`](https://github.com/rahulchaki07/Meeting-Cost-Clock) | Turn every meeting into a number. Make every minute count. | Real-time meeting cost tracking for teams |
 | 🔗 [`ai-decision-maker`](https://github.com/rahulchaki07/ai-decision-maker) | AI-powered decision coaching | Help users you understand the "WHY" behind every choice. |
 | 🔗 [`enterprise-api-design-patterns`](https://github.com/rahulchaki07/enterprise-api-design-patterns) | API design specs, integration patterns, OAuth flows | How I think about platform architecture as a PM |
 | 🔗 [`pm-tools-ai-workflows`](https://github.com/rahulchaki07/pm-tools-ai-workflows) | AI tools for PM workflow automation | PRD generation, competitive analysis, user story structuring |
